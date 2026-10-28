@@ -1,0 +1,10 @@
+{
+  "updatedAt": "2026-10-23",
+  "items": [
+    {"id":"sample-1","category":"科技","date":"示例内容","title":"从浏览器开始：轻量 Web 应用正在改变开发方式","summary":"无需安装即可访问的网页应用，适合用来验证产品想法、快速分享和跨设备体验。此条为演示文案，请替换成核实过的真实资讯。","source":"乐闻编辑部（示例）","url":"https://developer.mozilla.org/zh-CN/docs/Web"},
+    {"id":"sample-2","category":"游戏","date":"示例内容","title":"休闲游戏设计：让每一局都短小而有反馈","summary":"清晰的目标、及时反馈与简单操作，可以帮助新玩家快速理解规则。此条为演示文案，不代表真实新闻。","source":"乐闻编辑部（示例）","url":"https://developer.mozilla.org/zh-CN/docs/Games"},
+    {"id":"sample-3","category":"生活","date":"示例内容","title":"给碎片时间留一点空间：从小挑战开始放松","summary":"短时间的益智挑战可以成为日常休息的一部分。请合理安排屏幕时间，并让休息真正服务于生活。","source":"乐闻编辑部（示例）","url":"https://www.who.int/"},
+    {"id":"sample-4","category":"科技","date":"示例内容","title":"开源工具与免费额度：个人项目也能轻量上线","summary":"静态托管、版本管理与浏览器原生技术，能降低小型网站的初期成本。免费服务仍有使用限制，需要持续检查服务条款。","source":"乐闻编辑部（示例）","url":"https://pages.cloudflare.com/"},
+    {"id":"sample-5","category":"游戏","date":"示例内容","title":"网页小游戏的优势：分享链接就能开始体验","summary":"HTML5 游戏可以在支持的现代浏览器中运行，也方便作为网站内容的一部分。不同设备仍需要测试输入方式和性能。","source":"乐闻编辑部（示例）","url":"https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API"}
+  ]
+}
